@@ -1,4 +1,4 @@
-package pl.epersonalny.epersonalny.controllers;
+package pl.epersonalny.epersonalny.controller;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;
