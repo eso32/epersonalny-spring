@@ -22,7 +22,7 @@ public class ShipwreckStub {
 	}
 
 	public static List<Shipwreck> list() {
-		return new ArrayList<Shipwreck>(wrecks.valulistes());
+		return new ArrayList<Shipwreck>(wrecks.values());
 	}
 
 	public static Shipwreck create(Shipwreck wreck) {
