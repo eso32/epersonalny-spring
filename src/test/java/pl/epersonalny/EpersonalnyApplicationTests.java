@@ -1,4 +1,4 @@
-package pl.epersonalny.epersonalny;
+package pl.epersonalny;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

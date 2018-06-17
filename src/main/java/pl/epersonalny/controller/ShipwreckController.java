@@ -1,7 +1,7 @@
-package pl.epersonalny.epersonalny.controller;
+package pl.epersonalny.controller;
 
 import org.springframework.web.bind.annotation.*;
-import com.boot.model.Shipwreck;
+import pl.epersonalny.model.Shipwreck;
 
 import java.util.List;
 
